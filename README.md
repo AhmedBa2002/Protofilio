@@ -40,7 +40,7 @@
 
 ## تواصل معي
 
-- البريد الإلكتروني: [example@email.com](mailto:alakhdrahmd19@email.com)
+- البريد الإلكتروني: [alakhdrahmd19@email.com](mailto:alakhdrahmd19@email.com)
 - GitHub: [AhmedBa2002](https://github.com/AhmedBa2002)
 - LinkedIn: [Ahmed's LinkedIn](https://www.linkedin.com/in/ahmedba2002)
 
